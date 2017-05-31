@@ -1,0 +1,16 @@
+{
+	"dub": {
+		"lastUpgrade": "2017-05-31T10:32:20.1804142",
+		"cachedUpgrades": {
+			"libevent": "2.0.2+2.0.16",
+			"diet-ng": "1.2.1",
+			"taggedalgebraic": "0.10.6",
+			"openssl": "1.1.5+1.0.1g",
+			"memutils": "0.4.9",
+			"vibe-d": "0.8.0-beta.6",
+			"vibe-core": "1.0.0-beta.6",
+			"libasync": "0.8.3",
+			"eventcore": "0.8.10"
+		}
+	}
+}
